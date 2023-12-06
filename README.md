@@ -1,3 +1,3 @@
 # Simple tour site
 This is what it looks like
-![alt text]([http://url/to/img.png](https://imgur.com/nuhwOlr)https://imgur.com/nuhwOlr)
+![alt text]([http://url/to/img.png](https://imgur.com/nuhwOlr)
