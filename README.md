@@ -1,3 +1,3 @@
 # Simple tour site
 This is what it looks like
-![alt text]([http://url/to/img.png](pic.png)
+![alt text](pic.png)
