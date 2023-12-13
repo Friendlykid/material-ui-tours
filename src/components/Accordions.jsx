@@ -60,7 +60,7 @@ export default function Accordions({
               rating +
               " with " +
               numberOfReviews +
-              " of reviews."}
+              " reviews."}
           </Typography>
         </AccordionSummary>
         <AccordionDetails>

@@ -13,6 +13,7 @@ const style = {
   border: "2px solid #000",
   boxShadow: 24,
   p: 4,
+  textAlign: "center",
 };
 
 export default function BasicModal() {
@@ -31,6 +32,9 @@ export default function BasicModal() {
       >
         <Box sx={style}>
           <BasicDateTimePicker />
+          <Button variant="outlined" sx={{ marginTop: 2 }}>
+            Save tour
+          </Button>
         </Box>
       </Modal>
     </div>
